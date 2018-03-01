@@ -1,0 +1,5 @@
+{
+    "/public/model": "public.model.json",
+    "/workflow/detail": "workflow.detail.json",
+    "/step/page": "step.page.json"
+}

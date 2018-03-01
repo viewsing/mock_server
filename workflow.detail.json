@@ -1,0 +1,20 @@
+{
+    "result": true,
+    "data": {
+        "id": 156,
+        "name": "IDC3",
+        "number": "WF360448209696",
+        "creator": 37,
+        "createTime": "2018-02-24 10:48:49",
+        "modified": 1,
+        "modifyTime": "2018-03-01 11:43:27",
+        "status": 1,
+        "customType": null,
+        "isAll": 0,
+        "tableName": 2,
+        "remark": null,
+        "url": "/frame/jscript/package/html/add_vulPermissionApply.html",
+        "isNotice": 0,
+        "workflowstepList": null
+    }
+}
