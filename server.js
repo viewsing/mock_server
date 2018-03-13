@@ -1,8 +1,11 @@
 const Koa = require('koa');
+const cors = require('koa2-cors');
 const router = require('koa-router')();
 const fs = require('fs');
 
 const server = new Koa();
+
+server.use(cors());
 
 let routesMap = JSON.parse(fs.readFileSync('./routes.json', 'utf-8'));
 
